@@ -10,9 +10,9 @@ Built by **Sigma**. Backed by purpose. Driven by community.
 
 Everything in Alsania is:
 - 💡 **Modular** (Upgradeable, swappable, open)
-- 💸 **Low-cost** (Gas-optimized, free to use, no subscriptions)
+- 💸 **Low-cost** (Gas-optimized, free to use, no forced subscriptions)
 - 🧠 **AI-aware** (Persistent memory, agent support, traceable data)
-- 🧱 **Stack-native** (No vendor lock-in, no closed-source dependencies)
+- 🧱 **Stack-native** (No vendor lock-in)
 
 ---
 
@@ -22,7 +22,7 @@ Everything in Alsania is:
 
 > Your decentralized identity and on-chain namespace.
 
-- Mint `.alsania`, `.fx`, `.aed`, `.alsa`, `.07` domains
+- Mint `.alsania`, `.fx`, `.aed`, `.alsa`, `.07`, '.echo' domains
 - Enhance with subdomain minting, profiles, reverse records
 - Upgrade existing ENS/Unstoppable domains
 - SVG tokenURI visuals, admin dashboard, monetized enhancements
@@ -38,7 +38,7 @@ Everything in Alsania is:
 - ERC721/1155 support
 - Fixed-price + auction models
 - Creator royalties + ERC20 whitelist (e.g., ALSC)
-- No platform fees. All fees to creators or Alsania DAO
+- Insanely low platform fees. just enough to keep FX running, the test belongs to the creators and Alsania DAO
 
 ---
 
@@ -65,11 +65,11 @@ Everything in Alsania is:
 
 ---
 
-### 💻 Echo DevCon (Echo IDE Plugin)
+### 💻 DevConX ( IDE Plugin )
 
 - Fork of Continue.dev, powered by AlsaniaMCP
 - Project memory, persona persistence, chaos safeguards
-- No OpenAI key required
+- No API key required
 
 ---
 
@@ -95,7 +95,7 @@ You own your domain, your data, your future.
 
 ## 👥 Who is This For?
 
-- 🧙 Solidity developers
+- 🧙 Soveirgn developers
 - 🎨 Frontend hackers
 - 🧠 AI agent builders
 - 🌍 On-chain creatives & explorers
