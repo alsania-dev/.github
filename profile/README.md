@@ -18,6 +18,12 @@ Everything in Alsania is:
 
 ## 🛠️ Core Projects
 
+### The Memory of the Machine
+
+> Full ebook of the struggle.. no. the strength it takes to build when all odds are stacked against you.
+- https://gum.co/u/sswftlsy
+- Chapter a week preview of the ebook at https://alsania-io.com/story **try to keep up**
+
 ### 🏷️ Alsania Enhanced Domains (AED)
 
 > Your decentralized identity and on-chain namespace.
